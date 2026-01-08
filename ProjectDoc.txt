@@ -3,3 +3,7 @@ This is a project document for Git
 This is again change by master
 
 Thais is  gain change by master branch
+2nd :
+This changes made to check switch branch from master to feacture1
+
+3rd: change by this branch
